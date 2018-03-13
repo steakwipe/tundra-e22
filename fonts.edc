@@ -19,7 +19,7 @@
 /* fonts.edc not sure if this one is neccesary */
 #define FN_COL_DEFAULT 0 0 0 255; color3: 255 255 255 128
 #define FN_COL_BLACK 0 0 0 255; color3: 255 255 255 128
-#define FN_COL_DEFAULT_SOFT_SHADOW 176 176 176 255; color3: 0 0 0 18
+#define FN_COL_DEFAULT_SOFT_SHADOW 0 0 0 255; color3: 255 255 255 18
 #define FN_COL_HIGHLIGHT 0 0 0 255; color2: 162 166 170 24; color3: 176 176 176 18
 #define FN_COL_HIGHLIGHT_DARK 0 0 0 255; color3: 51 153 255 200
 #define FN_COL_HIGHLIGHT_CLICKED 255 255 255 255; color2: 51 153 255 64; color3: 51 153 255 32

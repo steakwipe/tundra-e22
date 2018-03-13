@@ -112,7 +112,7 @@ group { name: "e/widgets/border/default/border";
             color3: 255 255 255 255;
             text { font: FNBD; size: 10;
                text_class: "title_bar";
-               align: 0.5 0.0;
+               align: 0.1 0.0;
                min: 0 1;
             }
             fixed: 0 1;
@@ -134,11 +134,11 @@ group { name: "e/widgets/border/default/border";
             rel2.to_x: "e.event.minimize";
             align: 0.5 0.0;
             color_class: "border_title_active";
-            color3: 255 255 255 255;
+            color3:  0 0 0 255;
             text { font: FNBD; size: 10;
                text_source: "e.text.title";
                text_class: "title_bar";
-               align: 0.5 0.0;
+               align: 0.1 0.0;
                min: 0 1;
             }
             fixed: 0 1;
