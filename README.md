@@ -10,4 +10,6 @@ I have torn apart the Neptune theme for E21 and laid it as the foundation of thi
 ![The goods:](update1.png)
 
 
-Don't mind the fonts, I did all this work on my laptop, whose arch install was met by my inept configuration of fontconfig. Updated shots with higher resolution and wildly improved font rendering will come later. :) Head over to the releases page for the first demo of it, and be sure to report any issues or ideas. :D
+It's hard to capture everything in one shot, and most of what isn't shown is still pretty shitty. But, i did a thing. The .edj is in the file list above. Ctrl+F and punch in tundra.edj, grab that file. Drop it in your ~/.elementary/themes directory. NOT YOUR TERMINOLOGY DIRECTORY WTF WHY 
+
+I'm working on a terminology theme. Hold your horses.
