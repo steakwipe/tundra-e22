@@ -7,7 +7,7 @@ So here we are, and this is the result of a single manic night glued to gimp and
 
 I have torn apart the Neptune theme for E21 and laid it as the foundation of this theme. That theme can be found at [enlightenment-themes.org](https://www.enlightenment-themes.org/p/1171453/) . I chose it for no particular reason, other than it was already a light color scheme. Nice theme though. Still works pretty well in E22, if you want to check it out.
 
-![The goods:](screenshot.png)
+![The goods:](update1.png)
 
 
 Don't mind the fonts, I did all this work on my laptop, whose arch install was met by my inept configuration of fontconfig. Updated shots with higher resolution and wildly improved font rendering will come later. :) Head over to the releases page for the first demo of it, and be sure to report any issues or ideas. :D
